@@ -1,2 +1,3 @@
-# 123django
-django exercise projex
+# Project 0
+
+Web Programming with Python and JavaScript
